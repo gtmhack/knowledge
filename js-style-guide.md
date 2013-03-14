@@ -16,3 +16,13 @@
     // some more code
 })();
 ```
+
+## function declarations should not be placed in blocks
+
+```JavaScript
+// Wrong
+if(x){
+    function foo(){}
+}
+```
+
