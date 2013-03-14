@@ -14,7 +14,7 @@ JavaScript 语法检查可使用 [JSHint](http://www.jshint.com/), `Sublime Text
 
 ## 总是使用分号
 
-浏览器自动补完的分号有时回出问题，产生莫名奇妙的bug，尤其是合并压缩的时候。
+浏览器自动补完的分号有时会出问题，产生莫名奇妙的bug，尤其是合并压缩的时候。
 
 ```JavaScript
 (function(){
