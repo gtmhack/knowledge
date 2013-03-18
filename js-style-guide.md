@@ -6,6 +6,27 @@ JavaScript 语法检查可使用 [JSHint](http://www.jshint.com/), `Sublime Text
 
 不使用var会导致变量作用域混乱
 
+## 变量命名
+* 声明变量、函数等使用 [小驼峰式命名法(lower camel case)](http://en.wikipedia.org/wiki/CamelCase)
+* 声明类使用 [大驼峰式命名法(upper camel case)](http://en.wikipedia.org/wiki/CamelCase)
+
+```JavaScript
+var Book = Backbone.Model.extend({
+
+    defaults: {
+        title: '',
+        author: ''
+    },
+
+    initialize: function(){
+
+    }
+});
+
+var mathBook = new Book({
+    title: 'Advanced Mathematics'
+});
+```
 
 ## 总是使用分号
 
