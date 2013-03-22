@@ -42,6 +42,14 @@ var mathBook = new Book({
 })();
 ```
 
+## 访问 object 的属性使用`.`
+
+```JavaScript
+person['name'] = 'sdf';  // bad
+
+person.name = 'aer';     // good
+```
+
 ## function declarations should not be placed in blocks
 
 ```JavaScript
