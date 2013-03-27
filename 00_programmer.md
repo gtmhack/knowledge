@@ -12,3 +12,18 @@
 ## YAGNI 原则
 
 [You aren't gonna need it](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it)
+
+
+## Tell, Don't Ask
+bad:
+```
+<% if current_user.admin? %>
+  <%= current_user.admin_welcome_message %>
+<% else %>
+  <%= current_user.user_welcome_message %>
+<% end %>
+```
+good:
+```
+<%= current_user.welcome_message %>
+```
