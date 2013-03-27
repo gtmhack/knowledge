@@ -9,3 +9,6 @@
 保存旧代码是版本管理工具的工作
 
 
+## YAGNI 原则
+
+[You aren't gonna need it](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it)
