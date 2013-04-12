@@ -2,6 +2,7 @@
 
 [Linux 2.6.39-rc3的一个插曲 from CoolShell](http://coolshell.cn/articles/4576.html)
 
+
 ## 不要注释无用代码
 
 一是增加了搜索时无用的结果，二是给维护增加了很多困难
