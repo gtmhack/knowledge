@@ -1,4 +1,4 @@
-![boyaa logo](https://raw.github.com/Boyaa/knowledge/master/logo.png)
+![boyaa logo](https://secure.gravatar.com/avatar/70866c815c326556d520e48295508ef8?s=120)
 
 ---------------------
 
