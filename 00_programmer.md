@@ -28,3 +28,8 @@ good:
 ```
 <%= current_user.welcome_message %>
 ```
+
+## 各种流行的编程风格
+http://coolshell.cn/articles/2058.html/
+
+
