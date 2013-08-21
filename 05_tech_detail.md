@@ -1,4 +1,3 @@
-
 * 操作绝对定位的dom,只会reflow对应节点及子节点
 
 * audio不能播放离线缓存里的音频文件  
@@ -27,3 +26,6 @@
   
 * iOS 下iFrame高度随内容变化而自适应(设置height无效)
   <http://www.cnblogs.com/weinan/archive/2013/01/05/2832800.html>
+
+* App Splash Screen Sizes
+  <https://github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes>
