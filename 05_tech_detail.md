@@ -1,3 +1,7 @@
+
+* Mobile Tech  ( @ocean 同学分享的链接)
+  <https://github.com/jtyjty99999/mobileTech>
+
 * 操作绝对定位的dom,只会reflow对应节点及子节点
 
 * audio不能播放离线缓存里的音频文件  
