@@ -29,3 +29,6 @@
 
 * App Splash Screen Sizes
   <https://github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes>
+
+* mobile safari上无法对 input 元素 focus 的问题
+  <http://twilight.btlogs.com/how-to-focus-html-input-element-with-javascript-on-ios-and-android-mobile-safari/>
