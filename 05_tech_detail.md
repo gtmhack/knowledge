@@ -1,4 +1,3 @@
-
 * Mobile Tech  ( @ocean 同学分享的链接)
   <https://github.com/jtyjty99999/mobileTech>
 
@@ -36,3 +35,5 @@
 
 * mobile safari上无法对 input 元素 focus 的问题
   <http://twilight.btlogs.com/how-to-focus-html-input-element-with-javascript-on-ios-and-android-mobile-safari/>
+
+* Android 2.2 下禁止不了用户放大缩小行为，在HTC G10（480×800）、HTC G7（480×800）测过，其他设备暂不清楚
