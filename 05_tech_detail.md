@@ -36,4 +36,4 @@
 * mobile safari上无法对 input 元素 focus 的问题
   <http://twilight.btlogs.com/how-to-focus-html-input-element-with-javascript-on-ios-and-android-mobile-safari/>
 
-* Android 2.2 下禁止不了用户放大缩小行为，在HTC G10（480×800）、HTC G7（480×800）测过，其他设备暂不清楚
+* 如果同时声明top和bottom的值，那么top值的优先级更高。如果同时声明left和right的值，那么优先级取决于网页的语言（例如，英语法语德语西班牙语）。比如，在英语的网页中，left的优先级更高；在阿拉伯语的网页中，right的优先级更高。
