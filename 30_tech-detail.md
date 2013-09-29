@@ -39,3 +39,7 @@
 * 如果同时声明top和bottom的值，那么top值的优先级更高。如果同时声明left和right的值，那么优先级取决于网页的语言（例如，英语法语德语西班牙语）。比如，在英语的网页中，left的优先级更高；在阿拉伯语的网页中，right的优先级更高。
 
 * 大家以后操作localStorage时记得加上 try { } catch，今天遇到ios safari隐私模式下报错进不了游戏。
+
+* Duplicate canvas on Android 4.1
+  <http://www.hiddencode.me/post/duplicate-canvas-on-android-41>
+
