@@ -43,3 +43,5 @@
 * Duplicate canvas on Android 4.1
   <http://www.hiddencode.me/post/duplicate-canvas-on-android-41>
 
+* 安卓Webview下输入法键盘会盖住输入框的问题与Webview设置有关 
+  <http://www.w3c.com.cn/webview%E4%B8%AD-%E8%BE%93%E5%85%A5%E6%B3%95%E6%8C%A1%E4%BD%8F%E6%96%87%E6%9C%AC%E6%A1%86>
