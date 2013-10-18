@@ -45,3 +45,7 @@
 
 * 安卓Webview下输入法键盘会盖住输入框的问题与Webview设置有关 
   <http://www.w3c.com.cn/webview%E4%B8%AD-%E8%BE%93%E5%85%A5%E6%B3%95%E6%8C%A1%E4%BD%8F%E6%96%87%E6%9C%AC%E6%A1%86>
+
+* 安卓2.2的手机浏览页面点击输入框页面会自动放大问题，2.3以上版本暂无此问题
+  <http://www.dewen.org/q/4644/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E6%89%8B%E6%9C%BA%E6%B5%8F%E8%A7%88%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E8%BE%93%E5%85%A5%E6%A1%86%E9%A1%B5%E9%9D%A2%E4%BC%9A%E8%87%AA%E5%8A%A8%E6%94%BE%E5%A4%A7%E9%97%AE%E9%A2%98>
+
