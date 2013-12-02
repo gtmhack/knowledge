@@ -49,3 +49,4 @@
 * 安卓2.2的手机浏览页面点击输入框页面会自动放大问题，2.3以上版本暂无此问题
   <http://www.dewen.org/q/4644/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E6%89%8B%E6%9C%BA%E6%B5%8F%E8%A7%88%E9%A1%B5%E9%9D%A2%E7%82%B9%E5%87%BB%E8%BE%93%E5%85%A5%E6%A1%86%E9%A1%B5%E9%9D%A2%E4%BC%9A%E8%87%AA%E5%8A%A8%E6%94%BE%E5%A4%A7%E9%97%AE%E9%A2%98>
 
+* galaxy s4的webview中的canvas绘图有严重bug，无论是fillRect还是drawImage,会把0,0开始的1个像素，绘制到整个canvas，导致画面无法显示，解决方法：galaxy s4的webview显示canvas的时候，有两个条件必须满足： 1，canvas外层的div需要设定属性style="overflow:visible;-webkit-transform: translateZ(0);" 2，页面上不得含有img标签
