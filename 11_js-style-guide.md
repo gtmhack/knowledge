@@ -1,4 +1,7 @@
-JavaScript 语法检查可使用 [JSHint](http://www.jshint.com/), `Sublime Text` 的用户可以通过安装 [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) 这个插件自动监测。
+* JavaScript 语法检查可使用 [JSHint](http://www.jshint.com/), `Sublime Text` 的用户可以通过安装 [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) 这个插件自动监测。
+
+* 21 JavaScript Parts I Struggle To Remember
+(http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-)
 
 ------------------------------------
 
